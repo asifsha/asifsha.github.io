@@ -38,6 +38,7 @@ Most modern apps today require some common controls [Grid, date time picker], UI
 ### Angular
 [Artist Search App](https://github.com/asifsha/artist-app)
 
+## Contact Me
 * asif-sharif@hotmail.com
 * [linkedin](https://www.linkedin.com/in/asifsh/)
 * [medium](https://medium.com/@asiif.shariif)
