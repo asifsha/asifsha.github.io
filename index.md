@@ -17,22 +17,26 @@ Most modern apps today require some common controls [Grid, date time picker], UI
 ## Projects
 
 ### React
-[Flip Button](https://github.com/drex44/awesome-react-links/pull/7)
-* ![](https://user-images.githubusercontent.com/33965589/46905432-25c51e80-cf0d-11e8-8473-6975e6d7b0d6.gif)
+[Flip Button](https://github.com/drex44/awesome-react-links/pull/7)  
+![](https://user-images.githubusercontent.com/33965589/46905432-25c51e80-cf0d-11e8-8473-6975e6d7b0d6.gif)
 
-[Round Rotate Text Button](https://github.com/drex44/awesome-react-links/pull/2)
-* ![](https://user-images.githubusercontent.com/33965589/46829312-de2c7e80-cdb6-11e8-831f-4e8331b39dbf.gif)
+[Round Rotate Text Button](https://github.com/drex44/awesome-react-links/pull/2)  
+![](https://user-images.githubusercontent.com/33965589/46829312-de2c7e80-cdb6-11e8-831f-4e8331b39dbf.gif)
 
 ### React Native
 [REST Api integration with react native app](https://github.com/asifsha/react-native-api-integration)
-[expo demo](https://expo.io/@asifsh/map-app)
-* <img width="250" height="400" src="https://github.com/asifsha/react-native-api-integration/blob/master/demo/demoartist.gif">
+[expo demo](https://expo.io/@asifsh/map-app)    
+<img width="250" height="400" src="https://github.com/asifsha/react-native-api-integration/blob/master/demo/demoartist.gif">
 
+### Ionic
+[Counter](https://play.google.com/store/apps/details?id=com.curiositytech.counter)    
 
+<img width="250" height="400" src="https://github.com/asifsha/ionic-counter/blob/master/demo/counter.png">
+<img width="250" height="400" src="https://github.com/asifsha/ionic-counter/blob/master/demo/list.png">
+<img width="250" height="400" src="https://github.com/asifsha/ionic-counter/blob/master/demo/settings.png">
 
 ### Angular
 [Artist Search App](https://github.com/asifsha/artist-app)
-
 
 * asif-sharif@hotmail.com
 * [linkedin](https://www.linkedin.com/in/asifsh/)
