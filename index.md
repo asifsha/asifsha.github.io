@@ -26,15 +26,15 @@ Most modern apps today require some common controls [Grid, date time picker], UI
 ### React Native
 [REST Api integration with react native app](https://github.com/asifsha/react-native-api-integration)
 [expo demo](https://expo.io/@asifsh/map-app)    
-<img width="250" height="400" src="https://github.com/asifsha/react-native-api-integration/blob/master/demo/demoartist.gif" alt="" />
+<img width="250" height="400" src="https://raw.githubusercontent.com/asifsha/react-native-api-integration/master/demo/demoartist.gif" />
 
 ### Ionic
 [Counter](https://play.google.com/store/apps/details?id=com.curiositytech.counter)    
 
-<img width="250" height="400" src="https://github.com/asifsha/ionic-counter/blob/master/demo/counter.png" alt="" />
-<img width="250" height="400" src="https://github.com/asifsha/ionic-counter/blob/master/demo/list.png" alt="" />
-<img width="200" height="300" src="https://raw.githubusercontent.com/asifsha/ionic-counter/master/demo/settings.png" />
-4
+<img width="250" height="400" src="https://raw.githubusercontent.com/asifsha/ionic-counter/master/demo/counter.png" />
+<img width="250" height="400" src="https://raw.githubusercontent.com/asifsha/ionic-counter/master/demo/list.png" />
+<img width="250" height="400" src="https://raw.githubusercontent.com/asifsha/ionic-counter/master/demo/settings.png" />
+
 ### Angular
 [Artist Search App](https://github.com/asifsha/artist-app)
 
