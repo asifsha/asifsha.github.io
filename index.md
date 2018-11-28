@@ -33,8 +33,8 @@ Most modern apps today require some common controls [Grid, date time picker], UI
 
 <img width="250" height="400" src="https://github.com/asifsha/ionic-counter/blob/master/demo/counter.png" alt="" />
 <img width="250" height="400" src="https://github.com/asifsha/ionic-counter/blob/master/demo/list.png" alt="" />
-<img width="200" height="300" src="https://github.com/asifsha/ionic-counter/blob/master/demo/settings.png" />
-3
+<img width="200" height="300" src="https://raw.githubusercontent.com/asifsha/ionic-counter/master/demo/settings.png" />
+4
 ### Angular
 [Artist Search App](https://github.com/asifsha/artist-app)
 
