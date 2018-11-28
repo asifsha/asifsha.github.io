@@ -1,7 +1,4 @@
 theme: jekyll-theme-slate
 title: Hello, I am Asif Sharif
 description: I am a Full Stack & Front End developer, currently working with Angular, React & React Native.
-output: 
-  html_document:
-    includes:
-       in_header: analytics.html
+google_analytics: UA-130067382-1
