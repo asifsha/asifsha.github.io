@@ -4,7 +4,7 @@ I have over 11 years of experience of working on web and desktop applications us
 
 ### Hacktoberfest
 
-I've completed 7 Pull Requests for hashtag#Hacktoberfest!, [What is Hactoberfest?](https://www.quora.com/What-is-Hacktoberfest) 
+I've completed 7 Pull Requests for Hacktoberfest!, [What is Hactoberfest?](https://www.quora.com/What-is-Hacktoberfest) 
 
 ## Medium publications
 [React Redux starter kit](https://medium.com/@asiif.shariif/react-redux-starter-kit-985b4970aca3)
