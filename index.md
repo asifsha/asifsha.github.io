@@ -17,10 +17,10 @@ Most modern apps today require some common controls [Grid, date time picker], UI
 ## Projects
 
 ### React
-Oct 18 [Flip Button](https://github.com/drex44/awesome-react-links/pull/7) 
+Oct 18 [Flip Button](https://github.com/drex44/awesome-react-links/pull/7)   
 ![](https://user-images.githubusercontent.com/33965589/46905432-25c51e80-cf0d-11e8-8473-6975e6d7b0d6.gif)
 
-Oct 18 [Round Rotate Text Button](https://github.com/drex44/awesome-react-links/pull/2) 
+Oct 18 [Round Rotate Text Button](https://github.com/drex44/awesome-react-links/pull/2)   
 ![](https://user-images.githubusercontent.com/33965589/46829312-de2c7e80-cdb6-11e8-831f-4e8331b39dbf.gif)
 
 ### React Native
