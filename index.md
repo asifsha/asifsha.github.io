@@ -4,7 +4,9 @@ I have over 11 years of experience of working on web and desktop applications us
 
 ### Hacktoberfest
 
-I've completed 7 Pull Requests for Hacktoberfest!, [What is Hactoberfest?](https://www.quora.com/What-is-Hacktoberfest) 
+I've completed 7 Pull Requests for Hacktoberfest 2018!, [What is Hactoberfest?](https://www.quora.com/What-is-Hacktoberfest)
+Received the shirt in Jan 2019
+<img width="400" height="400" src="https://github.com/asifsha/asifsha.github.io/blob/master/IMG_20190103_000502.jpg" />
 
 ## Medium publications
 Jul 18 [React Redux starter kit](https://medium.com/@asiif.shariif/react-redux-starter-kit-985b4970aca3) 
@@ -24,6 +26,11 @@ Oct 18 [Round Rotate Text Button](https://github.com/drex44/awesome-react-links/
 ![](https://user-images.githubusercontent.com/33965589/46829312-de2c7e80-cdb6-11e8-831f-4e8331b39dbf.gif)
 
 ### React Native
+
+Jan 19 [react-native-picker-cascader npm package](https://www.npmjs.com/package/react-native-picker-cascader)
+
+![](https://raw.githubusercontent.com/asifsha/react-native-picker-cascader/master/demo/pickercascader.gif)
+
 Sep 18 [REST Api integration with react native app](https://github.com/asifsha/react-native-api-integration)
 [expo demo](https://expo.io/@asifsh/map-app)     
 <img width="250" height="400" src="https://raw.githubusercontent.com/asifsha/react-native-api-integration/master/demo/demoartist.gif" />
