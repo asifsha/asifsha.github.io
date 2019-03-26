@@ -1,6 +1,6 @@
 ## About Me
 
-I have over 11 years of experience of working on web and desktop applications using Java script, Css, Html, C# and Sql Server. I started contributing to open source projects for the last few months using React & React Native. I also write for meduim.com
+I have over 12 years of experience of working on web and desktop applications using Java script, Css, Html, C# and Sql Server. I started contributing to open source projects for the last few months using React & React Native. I also write for meduim.com
 
 ### Hacktoberfest
 
@@ -27,6 +27,10 @@ Oct 18 [Round Rotate Text Button](https://github.com/drex44/awesome-react-links/
 ![](https://user-images.githubusercontent.com/33965589/46829312-de2c7e80-cdb6-11e8-831f-4e8331b39dbf.gif)
 
 ### React Native
+
+Mar 19 [React Native App Localization Using Translation](https://github.com/asifsha/rn-localize)
+
+![](https://raw.githubusercontent.com/asifsha/rn-localize/master/demo/translate.gif)
 
 Feb 19 [React Native App with Custom Drawer Navigation, Calendar, Video, Charts, Timeline and Map](https://github.com/asifsha/rn-nav)
 
