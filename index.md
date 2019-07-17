@@ -58,7 +58,7 @@ May 17 [Counter](https://play.google.com/store/apps/details?id=com.curiositytech
 ### Angular
 Nov 17 [Artist Search App](https://github.com/asifsha/artist-app) 
 
-<img width="300" height="500" src="https://github.com/asifsha/artist-app/blob/master/demo/demo.gif" />
+<img width="300" height="500" src="https://raw.githubusercontent.com/asifsha/artist-app/master/demo/demo.gif" />
 
 ## Contact Me
 * asif-sharif@hotmail.com
