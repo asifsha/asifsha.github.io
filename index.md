@@ -16,12 +16,14 @@ To understand all the moving parts of React & Redux, I developed a simple counte
  Sep 18 [react jet - React starter kit with Redux, Popup, Validation, Spinner, Reactstrap, Grid and form Controls](https://medium.com/@asiif.shariif/react-jet-react-starter-kit-with-redux-popup-validation-spinner-reactstrap-grid-and-form-4864c0ffd88c)
 Most modern apps today require some common controls [Grid, date time picker], UI experience [showing spinner while processing] and you want this same experience throughout the app, to help with all these basic things,I developed a framework to gather all these things.
 
+![demo](https://github.com/asifsha/react-jet/blob/master/demo/spinner.gif)
 
 ## Projects
 
 ### React
 Oct 18 [Flip Button](https://github.com/drex44/awesome-react-links/pull/7)   
 ![](https://user-images.githubusercontent.com/33965589/46905432-25c51e80-cf0d-11e8-8473-6975e6d7b0d6.gif)
+
 
 Oct 18 [Round Rotate Text Button](https://github.com/drex44/awesome-react-links/pull/2)   
 ![](https://user-images.githubusercontent.com/33965589/46829312-de2c7e80-cdb6-11e8-831f-4e8331b39dbf.gif)
