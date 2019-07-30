@@ -51,6 +51,18 @@ Sep 18 [REST Api integration with react native app](https://github.com/asifsha/r
 [expo demo](https://expo.io/@asifsh/map-app)     
 <img width="250" height="400" src="https://raw.githubusercontent.com/asifsha/react-native-api-integration/master/demo/demoartist.gif" />
 
+### Angular
+
+July 19
+[Angular Starter Kit](https://github.com/asifsha/angular-starter-kit)
+
+![](https://raw.githubusercontent.com/asifsha/angular-starter-kit/master/demo/demo-lite.gif)
+
+
+Nov 17 [Artist Search App](https://github.com/asifsha/artist-app) 
+
+<img width="300" height="500" src="https://raw.githubusercontent.com/asifsha/artist-app/master/demo/demo.gif" />
+
 ### Ionic
 May 17 [Counter](https://play.google.com/store/apps/details?id=com.curiositytech.counter) 
 
@@ -58,10 +70,6 @@ May 17 [Counter](https://play.google.com/store/apps/details?id=com.curiositytech
 <img width="250" height="400" src="https://raw.githubusercontent.com/asifsha/ionic-counter/master/demo/list.png" />
 <img width="250" height="400" src="https://raw.githubusercontent.com/asifsha/ionic-counter/master/demo/settings.png" />
 
-### Angular
-Nov 17 [Artist Search App](https://github.com/asifsha/artist-app) 
-
-<img width="300" height="500" src="https://raw.githubusercontent.com/asifsha/artist-app/master/demo/demo.gif" />
 
 ## Contact Me
 * asif-sharif@hotmail.com
