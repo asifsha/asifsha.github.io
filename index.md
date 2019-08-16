@@ -22,6 +22,11 @@ Most modern apps today require some common controls [Grid, date time picker], UI
 ## Projects
 
 ### React
+
+Aug 19 [React Hooks, End to end testing](https://github.com/asifsha/react-redux-hooks-counter)   
+![](https://raw.githubusercontent.com/asifsha/react-redux-hooks-counter/master/demo/e2e-light.gif)
+
+
 Oct 18 [Flip Button](https://github.com/drex44/awesome-react-links/pull/7)   
 ![](https://user-images.githubusercontent.com/33965589/46905432-25c51e80-cf0d-11e8-8473-6975e6d7b0d6.gif)
 
