@@ -34,6 +34,12 @@ Oct 18 [Flip Button](https://github.com/drex44/awesome-react-links/pull/7)
 Oct 18 [Round Rotate Text Button](https://github.com/drex44/awesome-react-links/pull/2)   
 ![](https://user-images.githubusercontent.com/33965589/46829312-de2c7e80-cdb6-11e8-831f-4e8331b39dbf.gif)
 
+### Flutter
+
+Aug 19 [Flutter Drawer Navigation App with Charts, Calendar, Timeline and Maps](https://github.com/asifsha/flutter_nav)
+
+![](https://raw.githubusercontent.com/asifsha/flutter_nav/master/demo/demo.gif)
+
 ### React Native
 
 Mar 19 [React Native App Localization Using Translation](https://github.com/asifsha/rn-localize)
