@@ -23,6 +23,9 @@ Most modern apps today require some common controls [Grid, date time picker], UI
 
 ### React
 
+Sep 19 [React Calculator using Socket.io](https://github.com/asifsha/react-calc)     
+![demo](https://raw.githubusercontent.com/asifsha/react-calc/master/demo/demo1.gif)
+
 Aug 19 [React Hooks, End to end testing](https://github.com/asifsha/react-redux-hooks-counter)     
 ![](https://raw.githubusercontent.com/asifsha/react-redux-hooks-counter/master/demo/e2e-light.gif)
 
