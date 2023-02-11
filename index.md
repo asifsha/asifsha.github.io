@@ -1,6 +1,6 @@
 ## About Me
 
-I have over 12 years of experience of working on web and desktop applications using Java script, Css, Html, C# and Sql Server. Currently working on Angular and contributing to open source projects using React & React Native.
+Currently working as Cloud developer on AWS and developing multiple solutions using different AWS services, previously worked on micro services based solutions using Azure, REST Api and .Net core. Besides this also worked with React, Angular and React Native.
 
 ### Hacktoberfest
 
